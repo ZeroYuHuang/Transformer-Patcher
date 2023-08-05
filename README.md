@@ -31,6 +31,8 @@ $ conda activate T-Patcher
 
 ### Data
 
+You can download the supplementary file on this [openreview page](https://openreview.net/forum?id=4oYUGeGBPm).
+
 The data used is already in **data.zip** file, please unzip this file and implement the following pre-processing steps:
 
 ```
